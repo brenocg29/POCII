@@ -1,0 +1,19 @@
+[
+  {
+    "id": 0,
+    "name": "Trump",
+    "picture": "images/trump.jpeg",
+    "age": 70,
+    "party": "republican",
+    "location": "Donald J. Trump"
+  },
+  {
+    "id": 1,
+    "name": "Clinton",
+    "picture": "images/clinton.jpeg",
+    "age": 60,
+    "breed": "Democrat",
+    "location": "Hillary R. Clinton"
+  }
+]
+  

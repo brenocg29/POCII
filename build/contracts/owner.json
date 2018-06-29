@@ -1,0 +1,29 @@
+{
+  "contract_name": "owner",
+  "abi": [
+    {
+      "constant": false,
+      "inputs": [
+        {
+          "name": "newOwner",
+          "type": "address"
+        }
+      ],
+      "name": "transferOwnership",
+      "outputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    }
+  ],
+  "unlinked_binary": "0x6060604052341561000f57600080fd5b60008054600160a060020a033316600160a060020a031990911617905560f58061003a6000396000f300606060405263ffffffff7c0100000000000000000000000000000000000000000000000000000000600035041663f2fde38b8114603b57600080fd5b3415604557600080fd5b606473ffffffffffffffffffffffffffffffffffffffff600435166066565b005b6000543373ffffffffffffffffffffffffffffffffffffffff908116911614608d57600080fd5b6000805473ffffffffffffffffffffffffffffffffffffffff191673ffffffffffffffffffffffffffffffffffffffff929092169190911790555600a165627a7a72305820b929b3e184a997bfb30dc50de2b3779d4d4c274a50d951a9eb0d0efde1e3d3300029",
+  "networks": {},
+  "schema_version": "0.0.5",
+  "updated_at": 1526520027551
+}
